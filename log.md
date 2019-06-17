@@ -1,30 +1,19 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Motivation
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+I've been wanting to sign up to 100 days of code for a while. I've recently been trying to create a few web apps and started the FreeCodeCamp course so I can improve my skills in design and layout (rather than using bootstrap...). Decided to finally commit to the 100 days and start recording my progress here!
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 1: June 17th, 2019
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Goals for first 30 days**
+1. Create personal webpage
+2. CodeWars 3 times per week to improve python
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Today's Progress**: Continuing with FreeCodeCamp Responsive Web Design Certification. Completed CSS Flexbox and working through CSS Grid.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts:** Looking forward to getting started on some examples, finding the CSS tutorials quite repetitive. Have learnt a lot of CSS during the challenges though, will be useful when applying to the projects!
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** 
+1. [CSS Flexbox](https://learn.freecodecamp.org/responsive-web-design/css-flexbox)
+2. [CSS Grid](https://learn.freecodecamp.org/responsive-web-design/css-grid)
