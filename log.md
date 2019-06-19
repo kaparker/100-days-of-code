@@ -27,3 +27,13 @@ I've been wanting to sign up to 100 days of code for a while. I've recently been
 **Link to work:** 
 1. [CSS Grid](https://learn.freecodecamp.org/responsive-web-design/css-grid)
 2. [Tribute Page](https://codepen.io/anon/pen/KjMxaN)
+
+### Day 3: June 19th, 2019
+
+**Today's Progress**: Completed 2 CodeWars Kata today using python.
+
+**Thoughts:** Quite tired so took a while to get into each kata. Enjoyed the Pig Latin one. I completed the kata with a loop but then converted to a generator when refactoring. Need to use this more!
+
+**Link to work:** 
+1. [Dubstep](https://www.codewars.com/kata/551dc350bf4e526099000ae5)
+2. [Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f)
