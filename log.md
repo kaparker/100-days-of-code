@@ -37,3 +37,12 @@ I've been wanting to sign up to 100 days of code for a while. I've recently been
 **Link to work:** 
 1. [Dubstep](https://www.codewars.com/kata/551dc350bf4e526099000ae5)
 2. [Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f)
+
+### Day 4: June 20th, 2019
+
+**Today's Progress**: Completed a CodeWars Kata today using python.
+
+**Thoughts:** Late night session, got a solution but it didn't let me view the solutions! Tried refactoring using a recursive function instead of a few for loops - kept returning None! After a bit of digging realised I didn't return the function! Need to finish these earlier in the day, takes longer to process in the evening! 
+
+**Link to work:** 
+1. [Coloured Triangles](https://www.codewars.com/kata/5a25ac6ac5e284cfbe000111)
