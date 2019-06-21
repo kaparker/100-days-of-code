@@ -46,3 +46,12 @@ I've been wanting to sign up to 100 days of code for a while. I've recently been
 
 **Link to work:** 
 1. [Coloured Triangles](https://www.codewars.com/kata/5a25ac6ac5e284cfbe000111)
+
+### Day 5: June 21st, 2019
+
+**Today's Progress**: Continued the responsive web design tribute page. Set up CSS grid structure, decided on a topic and commited to github!
+
+**Thoughts:** Commit up in github, remember to set up as a page afterwards so github hosts the webpage, really easy and useful to setup! Grid structure in place, need to style and add content.
+
+**Link to work:** 
+1. [Tribute Page](https://github.com/kaparker/tribute-page/commit/eefa6e190046917a865314f4345683b48959f766)
