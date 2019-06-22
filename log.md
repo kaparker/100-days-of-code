@@ -55,3 +55,13 @@ I've been wanting to sign up to 100 days of code for a while. I've recently been
 
 **Link to work:** 
 1. [Tribute Page](https://github.com/kaparker/tribute-page/commit/eefa6e190046917a865314f4345683b48959f766)
+
+
+### Day 6: June 22nd, 2019
+
+**Today's Progress**: Added media queries to change grid with different size screens, tidied html structure, changed colours.
+
+**Thoughts:** Took a while to get a layout I was happy with, still could be improved but happy with layout. Need to add content!
+
+**Link to work:** 
+1. [Tribute Page](https://github.com/kaparker/tribute-page/commit/bbcb84d424c80eede4a9abab76de9c1c1a92042e)
