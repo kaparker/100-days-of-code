@@ -65,3 +65,12 @@ I've been wanting to sign up to 100 days of code for a while. I've recently been
 
 **Link to work:** 
 1. [Tribute Page](https://github.com/kaparker/tribute-page/commit/bbcb84d424c80eede4a9abab76de9c1c1a92042e)
+
+### Day 7: June 23rd, 2019
+
+**Today's Progress**: Added content to tribute page, update how it works on mobile, minor styling updates
+
+**Thoughts:** Took a while to add content. Spend less time on next challenges. Need to get feedback on styling and how to improve!
+
+**Link to work:** 
+1. [Tribute Page](https://github.com/kaparker/tribute-page/)
