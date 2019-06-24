@@ -74,3 +74,12 @@ I've been wanting to sign up to 100 days of code for a while. I've recently been
 
 **Link to work:** 
 1. [Tribute Page](https://github.com/kaparker/tribute-page/)
+
+### Day 8: June 24th, 2019
+
+**Today's Progress**: Setup layout for survey page with all tests passed for FCC challenge.
+
+**Thoughts:** Very basic layout used, need to add styling and better use of colour to make more presentable.
+
+**Link to work:** 
+1. [Survey form](https://github.com/kaparker/survey-form/commit/13dc11dd9df7f330cabc2a344d5d039a176917eb)
