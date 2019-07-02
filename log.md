@@ -83,3 +83,12 @@ I've been wanting to sign up to 100 days of code for a while. I've recently been
 
 **Link to work:** 
 1. [Survey form](https://github.com/kaparker/survey-form/commit/13dc11dd9df7f330cabc2a344d5d039a176917eb)
+
+### Day 9: July 2nd, 2019
+
+**Today's Progress**: Back to the challenge after a short break. Finished survey page
+
+**Thoughts:** Used css styling from FCC example with a few edits for the footer.
+
+**Link to work:** 
+1. [Survey form](https://github.com/kaparker/survey-form/commit/d44965d68fc5f8fe2e512a3c78ccf98cd92a7601)
