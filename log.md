@@ -92,3 +92,12 @@ I've been wanting to sign up to 100 days of code for a while. I've recently been
 
 **Link to work:** 
 1. [Survey form](https://github.com/kaparker/survey-form/commit/d44965d68fc5f8fe2e512a3c78ccf98cd92a7601)
+
+### Day 10: July 3rd, 2019
+
+**Today's Progress**: Worked on Product Landing Page challenge
+
+**Thoughts:** Used FCC example for flex boxes. Still needs work on the media queries as the content disappears!
+
+**Link to work:** 
+1. [Product landing page](https://github.com/kaparker/product-landing-page/commit/2f5c1a3af4c70a583c115020f6a4d7a8066904c9)
