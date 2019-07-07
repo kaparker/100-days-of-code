@@ -101,3 +101,31 @@ I've been wanting to sign up to 100 days of code for a while. I've recently been
 
 **Link to work:** 
 1. [Product landing page](https://github.com/kaparker/product-landing-page/commit/2f5c1a3af4c70a583c115020f6a4d7a8066904c9)
+
+### Day 11: July 4th, 2019
+
+**Today's Progress**: Completed days 1-3 of Kaggle's 7 day ML challenge.
+
+**Thoughts:** Emails have been sat in my inbox for a while meaning to complete so can start clearing my inbox! Completed days 1-3, fairly basic but useful to review! Would like to do more kaggle tutorials, they seem to be pretty useful and relevant!
+
+**Link to work:** 
+1. [Kaggle ML Challenge](https://www.kaggle.com/learn/intro-to-machine-learning)
+
+### Day 12: July 5th, 2019
+
+**Today's Progress**: Completed days 4-7 of Kaggle's 7 day ML challenge and submitted first ever kaggle competition!
+
+**Thoughts:** Reviewing procedures to refresh, some useful tips!
+
+**Link to work:** 
+1. [Kaggle ML Challenge](https://www.kaggle.com/learn/intro-to-machine-learning)
+
+### Day 13: July 7th, 2019
+
+**Today's Progress**: FCC technical documentation challenge
+
+**Thoughts:** Completed challenge but want to fill in details as a summary of the ML microcourse. 
+
+**Link to work:** 
+1. [FCC Technical Documentation](https://www.kaggle.com/learn/intro-to-machine-learning)
+2. [Technical Documentation page](https://github.com/kaparker/technical-documentation/commit/b4f0fd058884684b41075804dd29ddc2e31c26d5)
