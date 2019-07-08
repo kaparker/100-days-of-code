@@ -129,3 +129,14 @@ I've been wanting to sign up to 100 days of code for a while. I've recently been
 **Link to work:** 
 1. [FCC Technical Documentation](https://www.kaggle.com/learn/intro-to-machine-learning)
 2. [Technical Documentation page](https://github.com/kaparker/technical-documentation/commit/b4f0fd058884684b41075804dd29ddc2e31c26d5)
+
+### Day 14: July 8th, 2019
+
+**Today's Progress**: Completed FCC responsive web design course with the required layout for my portfolio. Completed Qwiklab GCP Intro. 
+
+**Thoughts:** Already done basic layout for portfolio previously so just updated footer, links for projects. Still needs more styling over the next few days. Also completed GCP Essentials course for the GCP Associate Cloud Engineer.
+
+**Link to work:** 
+1. [Portfolio](http://kaparker.github.io)
+2. [FCC Certificate](https://www.freecodecamp.org/certification/kaparker/responsive-web-design)
+3. [Qwiklabs GCP Essentials](https://run.qwiklabs.com/quests/23)
