@@ -140,3 +140,24 @@ I've been wanting to sign up to 100 days of code for a while. I've recently been
 1. [Portfolio](http://kaparker.github.io)
 2. [FCC Certificate](https://www.freecodecamp.org/certification/kaparker/responsive-web-design)
 3. [Qwiklabs GCP Essentials](https://run.qwiklabs.com/quests/23)
+
+### Day 15: July 9th, 2019
+
+**Today's Progress**: Added ML details to technical doc, continued Qwiklabs quests, started reading intro to Cloud Architecture book
+
+**Thoughts:** Only did a short session before work on Qwiklabs, started the Baseline: Infrastructure course. Also technical doc updated the eve before after pushing logs.
+
+**Link to work:** 
+1. [Technical Documentation](http://kaparker.github.io/technical-documentation)
+2. [Qwiklabs Baseline:Infrastructure](https://run.qwiklabs.com/quests/33)
+
+### Day 16: July 10th, 2019
+
+**Today's Progress**: Completed Qwiklabs Baseline quest and started Kubernetes quest, finished Technical Doc 
+
+**Thoughts:** Enjoying the style of the Qwiklabs, really well structured but going through them quickly and will definitely need to review the content. Finished technical doc summarising kaggle ML course
+
+**Link to work:** 
+1. [Technical Doc](http://kaparker.github.io/technical-documentation)
+2. [Qwiklabs Baseline:Infrastructure](https://run.qwiklabs.com/quests/33)
+3. [Qwiklabs Kubernetes in the Google Cloud](https://run.qwiklabs.com/quests/29)
