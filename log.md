@@ -161,3 +161,21 @@ I've been wanting to sign up to 100 days of code for a while. I've recently been
 1. [Technical Doc](http://kaparker.github.io/technical-documentation)
 2. [Qwiklabs Baseline:Infrastructure](https://run.qwiklabs.com/quests/33)
 3. [Qwiklabs Kubernetes in the Google Cloud](https://run.qwiklabs.com/quests/29)
+
+### Day 17: July 13th, 2019
+
+**Today's Progress**: Continuing with qwiklabs kubernetes course
+
+**Thoughts:** Back after a few days off from after feeling run down. Continuing with kubernetes course - need to review content afterwards with book. 
+
+**Link to work:** 
+1. [Qwiklabs Kubernetes in the Google Cloud](https://run.qwiklabs.com/quests/29)
+
+### Day 18: July 15th, 2019
+
+**Today's Progress**: Quick session after meetup this eve. Set up basic layout for speakers page.
+
+**Thoughts:** Set up basic layout. Already sketched out page, will work on the layout over next few days.
+
+**Link to work:** 
+1. [Speakers page](https://github.com/kaparker/speakers-page/commit/35d43bed1f44eb2b4f7dba869c5f1c6870ba8927)
