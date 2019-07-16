@@ -179,3 +179,12 @@ I've been wanting to sign up to 100 days of code for a while. I've recently been
 
 **Link to work:** 
 1. [Speakers page](https://github.com/kaparker/speakers-page/commit/35d43bed1f44eb2b4f7dba869c5f1c6870ba8927)
+
+### Day 19: July 16th, 2019
+
+**Today's Progress**: Found dataset for new NLP project, set up python code to extract relevant lines from file
+
+**Thoughts:** Installed python libraries to start with creating wordclouds from text frequency
+
+**Link to work:** 
+Not yet added to github!
