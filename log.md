@@ -188,3 +188,12 @@ I've been wanting to sign up to 100 days of code for a while. I've recently been
 
 **Link to work:** 
 Not yet added to github!
+
+### Day 20: July 17th, 2019
+
+**Today's Progress**: Finished NLP project to create wordclouds from game of thrones scripts
+
+**Thoughts:** Needed quite a bit of text cleaning and still room to change text processing from frequency to tfidf or another bow model
+
+**Link to work:** 
+1. [Game of Thrones wordclouds](https://github.com/kaparker/gameofthrones-wordclouds)
