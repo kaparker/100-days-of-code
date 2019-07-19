@@ -197,3 +197,12 @@ Not yet added to github!
 
 **Link to work:** 
 1. [Game of Thrones wordclouds](https://github.com/kaparker/gameofthrones-wordclouds)
+
+### Day 21: July 19th, 2019
+
+**Today's Progress**: Making Stranger Things wordclouds
+
+**Thoughts:** Using same code as GoT wordclouds to create wordclouds on stranger things scripts (without specified character lines). Images don't work so well at the moment.
+
+**Link to work:** 
+1. [Stranger Things wordclouds - not yet pushed but repo exists](https://github.com/kaparker/stranger-things)
