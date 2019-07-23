@@ -206,3 +206,12 @@ Not yet added to github!
 
 **Link to work:** 
 1. [Stranger Things wordclouds - not yet pushed but repo exists](https://github.com/kaparker/stranger-things)
+
+### Day 22: July 23rd, 2019
+
+**Today's Progress**: Creating slides on wordclouds for meetup tomorrow
+
+**Thoughts:** Writing out the process of generating wordclouds - plan to write a blog post too
+
+**Link to work:** 
+1. [Game of Thrones wordclouds - will upload here](https://github.com/kaparker/gameofthrones-wordclouds)
