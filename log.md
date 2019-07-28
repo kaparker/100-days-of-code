@@ -215,3 +215,24 @@ Not yet added to github!
 
 **Link to work:** 
 1. [Game of Thrones wordclouds - will upload here](https://github.com/kaparker/gameofthrones-wordclouds)
+
+### Day 23: July 27th, 2019
+
+**Today's Progress**: Updating portfolio to include latest projects, commit stranger things word clouds
+
+**Thoughts:** Short updates to include word cloud projects, add details to readme for stranger things word clouds. Portfolio still needs work, create a page for the word cloud project
+
+**Link to work:** 
+1. [Portfolio](https://github.com/kaparker/kaparker.github.io)
+2. [Stranger Things](https://github.com/kaparker/stranger-things)
+
+### Day 24: July 28th, 2019
+
+**Today's Progress**: Started blog post on word clouds
+
+**Thoughts:** Using slides from meetup as a skeleton for the blog post
+
+**Link to work:** 
+1. [Blog post draft on medium](https://medium.com/@_kaparker)
+
+
