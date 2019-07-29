@@ -235,4 +235,13 @@ Not yet added to github!
 **Link to work:** 
 1. [Blog post draft on medium](https://medium.com/@_kaparker)
 
+### Day 25: July 29th, 2019
+
+**Today's Progress**: Continuing blog on word clouds
+
+**Thoughts:** Written up section 1 of 4
+
+**Link to work:** 
+1. [Blog post draft on medium](https://medium.com/@_kaparker)
+
 
