@@ -245,3 +245,23 @@ Not yet added to github!
 1. [Blog post draft on medium](https://medium.com/@_kaparker)
 
 
+### Day 26: July 30th, 2019
+
+**Today's Progress**: Continuing blog on word clouds
+
+**Thoughts:** Written up the next section
+
+**Link to work:** 
+1. [Blog post draft on medium](https://medium.com/@_kaparker)
+
+
+### Day 27: July 31st, 2019
+
+**Today's Progress**: Published blog on word clouds
+
+**Thoughts:** Completed blog post and published! Got the remaining sections finished before work and added conclusion and final comments in the evening.
+
+**Link to work:** 
+1. [Word clouds with python](https://medium.com/@_kaparker/creating-word-clouds-with-python-f2077c8de5cc)
+
+
