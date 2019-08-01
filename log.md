@@ -265,3 +265,13 @@ Not yet added to github!
 1. [Word clouds with python](https://medium.com/@_kaparker/creating-word-clouds-with-python-f2077c8de5cc)
 
 
+### Day 28: August 1st, 2019
+
+**Today's Progress**: Back to qwiklabs for cloud architecture quest
+
+**Thoughts:** Only have a week until the subscription expires and need to complete the final quest. I completed 2 labs today - only 1 more to go!
+
+**Link to work:** 
+1. [Qwiklabs - Cloud Architecture](https://google.qwiklabs.com/quests/24)
+
+
