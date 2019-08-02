@@ -56,7 +56,6 @@ I've been wanting to sign up to 100 days of code for a while. I've recently been
 **Link to work:** 
 1. [Tribute Page](https://github.com/kaparker/tribute-page/commit/eefa6e190046917a865314f4345683b48959f766)
 
-
 ### Day 6: June 22nd, 2019
 
 **Today's Progress**: Added media queries to change grid with different size screens, tidied html structure, changed colours.
@@ -244,7 +243,6 @@ Not yet added to github!
 **Link to work:** 
 1. [Blog post draft on medium](https://medium.com/@_kaparker)
 
-
 ### Day 26: July 30th, 2019
 
 **Today's Progress**: Continuing blog on word clouds
@@ -253,7 +251,6 @@ Not yet added to github!
 
 **Link to work:** 
 1. [Blog post draft on medium](https://medium.com/@_kaparker)
-
 
 ### Day 27: July 31st, 2019
 
@@ -264,7 +261,6 @@ Not yet added to github!
 **Link to work:** 
 1. [Word clouds with python](https://medium.com/@_kaparker/creating-word-clouds-with-python-f2077c8de5cc)
 
-
 ### Day 28: August 1st, 2019
 
 **Today's Progress**: Back to qwiklabs for cloud architecture quest
@@ -274,4 +270,12 @@ Not yet added to github!
 **Link to work:** 
 1. [Qwiklabs - Cloud Architecture](https://google.qwiklabs.com/quests/24)
 
+### Day 29: August 2nd, 2019
 
+**Today's Progress**: Completed qwiklabs cloud architecture quest, speakers page updates
+
+**Thoughts:** Completed qwiklabs and started to update speakers page website. Still needs rethinking about the structure but happy with the progress.
+
+**Link to work:** 
+1. [Qwiklabs - Cloud Architecture](https://google.qwiklabs.com/quests/24)
+2. [Speakers page](https://github.com/kaparker/speakers-page)
