@@ -279,3 +279,12 @@ Not yet added to github!
 **Link to work:** 
 1. [Qwiklabs - Cloud Architecture](https://google.qwiklabs.com/quests/24)
 2. [Speakers page](https://github.com/kaparker/speakers-page)
+
+### Day 30: August 8th, 2019
+
+**Today's Progress**: Reading about back4app, netlify
+
+**Thoughts:** Further planning of speakers app
+
+**Link to work:** 
+1. [Speakers page](https://github.com/kaparker/speakers-page)
