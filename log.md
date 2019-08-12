@@ -288,3 +288,12 @@ Not yet added to github!
 
 **Link to work:** 
 1. [Speakers page](https://github.com/kaparker/speakers-page)
+
+### Day 31: August 12th, 2019
+
+**Today's Progress**: Set up netlify, created coming soon page, deployed site.
+
+**Thoughts:** Need to set up back4app properly, would be good to get some feedback on the page and what features are useful for speakers/searching
+
+**Link to work:** 
+1. [Speakers page](https://speakerslive.netlify.com/)
