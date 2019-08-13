@@ -297,3 +297,12 @@ Not yet added to github!
 
 **Link to work:** 
 1. [Speakers page](https://speakerslive.netlify.com/)
+
+### Day 32: August 13th, 2019
+
+**Today's Progress**: Set up back4app app for speakers live, got user signup/email verification/login sorted
+
+**Thoughts:** Need to think about structure of other classes for user data and create nice pages with register/login. Not great back4app documentation, lots of pages with essentially the same thing!! Need to plan before proceeding!
+
+**Link to work:** 
+1. [Speakers page](https://github.com/kaparker/speakers-page/commit/0fec546ab9b887ca23d13bc1f8fedd9221e4432d)
