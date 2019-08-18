@@ -306,3 +306,23 @@ Not yet added to github!
 
 **Link to work:** 
 1. [Speakers page](https://github.com/kaparker/speakers-page/commit/0fec546ab9b887ca23d13bc1f8fedd9221e4432d)
+
+### Day 33: August 17th, 2019
+
+**Today's Progress**: Bought a domain! Set up SSL certificate. Sorted email hosting!
+
+**Thoughts:** Lots of setting things up, not so much coding today! Set up social media accounts for page too.
+
+**Link to work:** 
+1. [Speakers page](https://speakerslive.tech/)
+
+### Day 34: August 18th, 2019
+
+**Today's Progress**: Created survey using typeform, added to top button
+
+**Thoughts:** Planning how to approach the next steps so set up a survey to get some potential user feedback and link to this on the website. Added social media handles
+
+**Link to work:** 
+1. [Speakers page](https://speakerslive.tech/)
+
+
