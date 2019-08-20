@@ -325,4 +325,13 @@ Not yet added to github!
 **Link to work:** 
 1. [Speakers page](https://speakerslive.tech/)
 
+### Day 35: August 20th, 2019
+
+**Today's Progress**: Testing hamburger menu
+
+**Thoughts:** Merged in latest version to master and trying to update menu and layout - added hamburger menu
+
+**Link to work:** 
+1. [SpeakersLive](https://github.com/kaparker/speakers-page/commit/a7a419b261943d8845ffa96d4aabb4a4965cd547)
+
 
