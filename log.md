@@ -334,4 +334,13 @@ Not yet added to github!
 **Link to work:** 
 1. [SpeakersLive](https://github.com/kaparker/speakers-page/commit/a7a419b261943d8845ffa96d4aabb4a4965cd547)
 
+### Day 36: August 23rd, 2019
+
+**Today's Progress**: Data pipelines tutorial
+
+**Thoughts:** Followed kaggle data pipelines tutorial, really interested in data versioning and should use kaggle more for storing datasets and ETL
+
+**Link to work:** 
+1. [Kaggle automated datasets](https://www.kaggle.com/professional-skills-series#pipelines)
+
 
